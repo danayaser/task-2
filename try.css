@@ -1,0 +1,34 @@
+.bg {
+     width: 100%;
+	height: 100%;
+background-image: url(Confectionary-closeup.jpg);
+background-size : cover;
+background-position: center center;
+background-repeat:no-repeat;
+position:absolute;  z-index:-1;;
+} 
+.card-link { color:rgb(221, 72, 171); }
+
+.card-text { color: rgba(158, 149, 149, 0.877);}
+ 
+ .link{ 
+    color:rgb(221, 72, 171); 
+    padding-left: 20px;
+    }
+
+    .pic{ width: 20px;}
+
+    .pic1{width: 15px;}
+
+    .log{
+       background-color: rgba(201, 60, 142, 0.842);  font-size: 19px; }
+   
+   .ccard{width: 21rem;     
+        margin-right: -40px;
+
+       padding: 15px; 
+      }
+
+   .image{border-style: groove; box-sizing: border-box;}
+    
+ 
